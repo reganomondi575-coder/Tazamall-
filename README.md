@@ -375,7 +375,7 @@
       ],
       electronics: [
         { id: 5, name: "Wireless Earbuds", price: 29.99, img: "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80" },
-        { id: 6, name: "Smart Watch", price: 79.99, img: "smart.jpeg" },
+        { id: 6, name: "Smart Watch", price: 79.99, img: "https://picsum.photos/seed/smartwatch/150/150" },
         { id: 7, name: "Phone Stand", price: 12.50, img: "https://images.unsplash.com/photo-1609821868300-73c47602a926?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80" },
         { id: 8, name: "LED Desk Lamp", price: 24.99, img: "https://images.unsplash.com/photo-1593696140880-40b3e4f3a4a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80" }
       ],
@@ -385,7 +385,7 @@
       ],
       beauty: [
         { id: 11, name: "Natural Face Serum", price: 22.00, img: "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80" },
-        { id: 12, name: "Organic Lip Balm", price: 8.99, img: "lip.jpg" }
+        { id: 12, name: "Organic Lip Balm", price: 8.99, img: "https://picsum.photos/seed/lipbalm/150/150" }
         
       ]
     };
@@ -478,4 +478,4 @@
   </script>
 </body>
 </html> Tazamall-
-A shopping website 
+A shopping website
